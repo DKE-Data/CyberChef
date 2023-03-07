@@ -83,7 +83,7 @@ const P12_TARGET_KEY = "-----BEGIN ENCRYPTED PRIVATE KEY-----\n" +
     "IL2Jjh0ouENFzCFkzzvKdugr7MxnGyF1f0rLgCRAkgoWFv5wFfchV4Z+QF+dx0aQ\n" +
     "j4P77v+I8famagDl4uDVg45c5fxkRVKouZDAsDN3kbPE6E4CtV5haXROkLVo96D2\n" +
     "Av01WRnDljN5qSNRb57iaOdw8Q==\n" +
-    "-----END ENCRYPTED PRIVATE KEY-----"
+    "-----END ENCRYPTED PRIVATE KEY-----";
 
 TestRegister.addTests([
     {
